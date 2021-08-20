@@ -1,0 +1,9 @@
+*.uvguix.*
+*.map
+*.lst
+objs
+RTE
+JLink*
+*.swp
+*~
+*.scvd
