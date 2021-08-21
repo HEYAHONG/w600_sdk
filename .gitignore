@@ -17,6 +17,7 @@ si/*
 Bin/*
 *.img
 *.bin
+*.fls
 *.output/
 *.out
 *.map
